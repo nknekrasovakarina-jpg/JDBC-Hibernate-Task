@@ -5,8 +5,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Table
-public class User {
-    @Id
+public class User {    @Id
     private Long id;
 
     @Column

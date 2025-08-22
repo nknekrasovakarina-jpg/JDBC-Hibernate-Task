@@ -1,4 +1,4 @@
-package jm.task.core.jdbc.service;
+package Service;
 
 
 
